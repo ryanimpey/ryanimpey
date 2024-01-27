@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Ryan 👋
 
-<!--
-**ryanimpey/ryanimpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a University of Lincoln graduate with a BSc in Computer Science. Currently working as a senior software engineer with &Element.
 
-Here are some ideas to get you started:
+Industry experience in embedded software development and full stack development including native applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously used C, Python, JavaScript, MongoDB/NoSQL. Currently using Rust and Typescript at [&Element](https://github.com/element-softworks).
+
+[Portfolio](https://impey.dev)
+
+## Current Projects
+
+[Merlin Cloud](https://github.com/merlincloud) - Deploy digital campaigns in-store and online, intelligently save energy, time and money.
+
+[Index Igniter](https://indexigniter.com/) - All-in-one indexing assistant for managing your search engine prescence.
+
+[LocalHousePrices](https://localhouseprices.co.uk/) - Find property prices in your area and around the United Kingdom.
